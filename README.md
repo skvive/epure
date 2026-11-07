@@ -2,7 +2,7 @@
 
 French-inspired quiet-luxury womenswear concept / editorial website and SEO journal.
 
-- Production demo domain: https://bielnora.lexid.site (existing domain retained until the new domain is activated)
+- Production demo domain: https://epure.lexid.site (existing domain retained until the new domain is activated)
 - GitHub target: https://github.com/skvive/epure
 - `python3 -m http.server 8080` / `npm test`
 - Native static HTML/CSS/JS; no build dependencies; SPA navigation not required.
