@@ -1,0 +1,35 @@
+name: ÉPURE Blogger content draft sync
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # 09:00 Asia/Seoul
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Refresh official site content into Blogger drafts
+        if: ${{ env.BLOGGER_BLOG_ID != '' }}
+        env:
+          BLOGGER_BLOG_ID: ${{ secrets.BLOGGER_BLOG_ID }}
+          BLOGGER_CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
+          BLOGGER_CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
+          BLOGGER_OAUTH_REFRESH_TOKEN: ${{ secrets.BLOGGER_OAUTH_REFRESH_TOKEN }}
+        run: node scripts/blogger-sync.mjs --apply
+      - name: Pull Blogger articles into site cache
+        env:
+          BLOGGER_URL: ${{ vars.BLOGGER_URL }}
+        run: node scripts/blogger-pull.mjs
+      - name: Commit refreshed cache when present
+        run: |
+          if [ -f content/blogger-cache.json ]; then
+            git config user.name 'epure-content-bot'
+            git config user.email 'actions@users.noreply.github.com'
+            git add content/blogger-cache.json
+            git diff --staged --quiet || (git commit -m 'content: refresh Blogger feed cache' && git push)
+          fi

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:css='false' b:responsive='true' expr:dir='data:blog.languageDirection' lang='ko' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<b:include data='blog' name='all-head-content'/>
+<title><data:blog.pageTitle/></title>
+<link href='https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&amp;family=Noto+Sans+KR:wght@400;500&amp;family=Playfair+Display:wght@400;500&amp;display=swap' rel='stylesheet'/>
+<b:skin><![CDATA[
+:root{--paper:#fdfcf9;--ink:#292723;--taupe:#e5ded4;--muted:#77716b;--serif:'Playfair Display',Georgia,serif;--sans:'DM Sans','Noto Sans KR',sans-serif}*{box-sizing:border-box}body{background:var(--paper);color:var(--ink);margin:0;font-family:var(--sans);line-height:1.75}a{color:inherit;text-decoration:none}img{max-width:100%;height:auto}.announcement{padding:10px;text-align:center;font-size:10px;letter-spacing:.2em;color:white;background:#352e29}.bar{display:flex;align-items:center;justify-content:space-between;gap:20px;min-height:84px;border-bottom:1px solid #ddd7ce;padding:15px 6%}.brand{font:400 30px var(--serif);letter-spacing:.16em}.brand small{display:block;font:500 8px var(--sans);letter-spacing:.28em}.menu{display:flex;gap:25px;font-size:11px;letter-spacing:.1em}.intro{text-align:center;padding:110px 20px;background:#efe9e2}.intro h1{font:400 clamp(48px,6vw,86px) var(--serif);margin:10px 0}.intro p{font-size:13px;color:var(--muted)}.content{max-width:1310px;margin:80px auto;padding:0 6%}.blog-posts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:55px 34px}.post-outer{min-width:0}.post-title,.post-title a{font:400 36px/1.3 var(--serif)}.post-body{line-height:2;font-size:15px;color:#555}.post-body img{width:100%;max-height:600px;object-fit:cover}.date-header{font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted)}.post-footer{font-size:12px;color:#82796f}.separator{clear:both}.blog-pager{padding:40px 0;text-align:center}.footer{background:#332d29;color:#f3efe9;padding:60px 6%;display:flex;justify-content:space-between;gap:20px}.footer a{color:#d4c9bd}.widget-title{display:none}.blog-feeds{display:none}@media(max-width:700px){.bar{flex-direction:column;padding:20px}.menu{gap:12px;font-size:10px;flex-wrap:wrap;justify-content:center}.blog-posts{grid-template-columns:1fr}.content{margin:55px auto}.intro{padding:75px 20px}.post-title,.post-title a{font-size:29px}.footer{flex-direction:column}}
+]]></b:skin>
+</head>
+<body>
+<div class='announcement'>ÉPURE / ATELIER NOTES — THE QUIET STUDY</div>
+<div class='bar'><a class='brand' href='https://bielnora.lexid.site/'>ÉPURE<small>JOURNAL · THE ATELIER</small></a><nav class='menu'><a href='https://bielnora.lexid.site/'>MAISON</a><a href='https://bielnora.lexid.site/collection.html'>COLLECTION</a><a href='https://bielnora.lexid.site/material.html'>CRAFT</a><a href='https://bielnora.lexid.site/salon.html'>SALON PRIVÉ</a></nav></div>
+<section class='intro'><div style='font-size:11px;letter-spacing:.25em'>THE ÉPURE JOURNAL</div><h1>A life, considered.</h1><p>Timeless materials, a modern silhouette.</p></section>
+<main class='content'><b:section class='main' id='main' maxwidgets='1' showaddelement='no'><b:widget id='Blog1' locked='true' title='The Journal' type='Blog' version='2' visible='true'/></b:section></main>
+<footer class='footer'><div>ÉPURE ATELIER<br/><small>L’élégance en toute simplicité.</small></div><div><a href='https://bielnora.lexid.site/feed.xml'>OFFICIAL RSS</a> · <a href='https://bielnora.lexid.site/salon.html'>CONTACT</a></div></footer>
+</body>
+</html>

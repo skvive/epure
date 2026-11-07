@@ -1,0 +1,21 @@
+{
+  "name": "ÉPURE COLLECTION — Maison Parisienne",
+  "short_name": "ÉPURE",
+  "description": "파리의 프렌치 시크 스타일에서 영감을 받은 럭셔리 여성복 가상 메종",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcfaf6",
+  "theme_color": "#352122",
+  "icons": [
+    {
+      "src": "/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
