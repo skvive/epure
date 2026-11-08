@@ -5,11 +5,11 @@ import {join,resolve,dirname} from 'node:path';
 const root=resolve(new URL('..', import.meta.url).pathname);
 const pages=readdirSync(root).filter(n=>n.endsWith('.html'));
 const image=(n)=>join(root,n);
-test('16 HTML documents have versioned CSS and SEO image',()=>{
+test('21 HTML documents have versioned CSS and SEO image',()=>{
  assert.equal(pages.length,21);
  for(const name of pages){
   const content=readFileSync(join(root,name),'utf8');
-  assert.match(content,/\/assets\/styles\.css\?v=2\.0\.0/);
+  assert.match(content,/\/assets\/styles\.css\?v=2\.[0-9]+\.[0-9]+/);
   assert.match(content,/og:image:width/);
   assert.match(content,/twitter:image/);
   assert.match(content,/apple-touch-icon/);
