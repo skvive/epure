@@ -1,0 +1,214 @@
+{
+  "brand": "ÉPURE COLLECTION",
+  "source": "CJdropshipping OAuth API, inspected 2026-11-08",
+  "state": "curated_no_checkout",
+  "disclaimer": "CJ 상세 소재 표기 기준. 제조사 성분시험, 실제 원산지, 판매가, 배송정책 미확인. AI 모델 화보는 실제 상품 사진이 아님.",
+  "products": [
+    {
+      "slug": "le-col-ivoire",
+      "pid": "1437948308768296960",
+      "sku": "CJWY1287116",
+      "name": "Le Col Ivoire",
+      "ko": "이부아르 하이넥 캐시미어 니트",
+      "category": "Turtleneck",
+      "material": "CJ 공급처 표기: 캐시미어 100%",
+      "percent": "공급처 100% 표기 · 시험성적서 미확인",
+      "confidence": "supplier_claim_100",
+      "price_usd": 46.77,
+      "colors": [
+        "White",
+        "Gray",
+        "Black",
+        "Beige",
+        "Dark Camel"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "image": "https://cf.cjdropshipping.com/2895fdae-f2a8-4157-b00a-bc333ffd8e15.jpg",
+      "gallery": [
+        "https://cf.cjdropshipping.com/2895fdae-f2a8-4157-b00a-bc333ffd8e15.jpg",
+        "https://cf.cjdropshipping.com/adb6c3dd-2d84-44f2-922a-616a3cf6b5c3.jpg",
+        "https://cf.cjdropshipping.com/3986a006-a7ee-4acd-b2b7-fe5f64898e0d.jpg"
+      ],
+      "editorial": "haut-cou-ivoire.webp",
+      "source": "https://www.cjdropshipping.com/product/pure-cashmere-sweater-women-high-neck-knitted-bottoming-shirt-p-1437948308768296960.html?list=1",
+      "note": "하이넥과 슬림한 어깨선을 가진 니트. 화이트와 카멜 계열이 파리지앵 톤온톤 스타일링에 어울립니다.",
+      "style": "아이보리 와이드 트라우저와 코트 안의 단정한 이너로 매치해보세요.",
+      "retail_price_krw": null,
+      "checkout_enabled": false,
+      "stock_verified": false,
+      "ai_look": "assets/cj-cashmere/haut-cou-ivoire.webp",
+      "detail_url": "https://epure.lexid.site/cashmere-le-col-ivoire.html",
+      "supplier": "CJdropshipping",
+      "origin_verified": false
+    },
+    {
+      "slug": "le-pull-ligne",
+      "pid": "1438006108903051264",
+      "sku": "CJMY1287441",
+      "name": "Le Pull Ligne",
+      "ko": "리뉴 라운드넥 패턴 캐시미어 니트",
+      "category": "Crewneck",
+      "material": "CJ 공급처 표기: 캐시미어 소재",
+      "percent": "혼용률 미기재 · 시험성적서 미확인",
+      "confidence": "material_listed_no_percent",
+      "price_usd": 52.14,
+      "colors": [
+        "Khaki / Apricot"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "image": "https://cf.cjdropshipping.com/f4a8abd4-decb-42d2-b23a-9502072bd3e1.jpg",
+      "gallery": [
+        "https://cf.cjdropshipping.com/f4a8abd4-decb-42d2-b23a-9502072bd3e1.jpg",
+        "https://cf.cjdropshipping.com/a82e21ab-4aa8-4260-bf89-8e00b1a5f3ab.jpg",
+        "https://cf.cjdropshipping.com/036bcf07-c399-4b99-826b-332fd8db692a.jpg"
+      ],
+      "editorial": "maille-a-rayures.webp",
+      "source": "https://www.cjdropshipping.com/product/pure-cashmere-round-neck-check-bottoming-wool-sweater-women-p-1438006108903051264.html?list=1",
+      "note": "라운드 넥과 부드러운 아프리콧 톤의 데일리 니트. 소재 혼용률은 공급처 확인이 필요합니다.",
+      "style": "하이웨이스트 울 슬랙스와 매치해 균형 잡힌 실루엣을 연출하세요.",
+      "retail_price_krw": null,
+      "checkout_enabled": false,
+      "stock_verified": false,
+      "ai_look": "assets/cj-cashmere/maille-a-rayures.webp",
+      "detail_url": "https://epure.lexid.site/cashmere-le-pull-ligne.html",
+      "supplier": "CJdropshipping",
+      "origin_verified": false
+    },
+    {
+      "slug": "la-maille-camel",
+      "pid": "2511010754491604300",
+      "sku": "CJMY2577624",
+      "name": "La Maille Camel",
+      "ko": "카멜 하이넥 캐시미어 니트",
+      "category": "Turtleneck",
+      "material": "CJ 공급처 표기: Cashmere",
+      "percent": "혼용률 미기재 · 시험성적서 미확인",
+      "confidence": "material_listed_no_percent",
+      "price_usd": 79.27,
+      "colors": [
+        "Elegant Camel",
+        "White",
+        "Beige",
+        "Gray",
+        "Black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "image": "https://oss-cf.cjdropshipping.com/product/2025/11/01/07/75f21604-2a68-4839-97a0-107590dc2698.jpg",
+      "gallery": [
+        "https://oss-cf.cjdropshipping.com/product/2025/11/01/07/75f21604-2a68-4839-97a0-107590dc2698.jpg",
+        "https://oss-cf.cjdropshipping.com/product/2025/11/01/07/1da92510-b331-4d37-aff5-26b0fcd3ef1d.jpg",
+        "https://oss-cf.cjdropshipping.com/product/2025/11/01/07/37d078f4-3dc4-4c2d-9fea-33e8dd0fcc4e.jpg"
+      ],
+      "editorial": "col-camel.webp",
+      "source": "https://www.cjdropshipping.com/product/thick-high-neck-cashmere-sweater-for-women-p-2511010754491604300.html?list=1",
+      "note": "조직감 있는 하이넥 실루엣과 다양한 뉴트럴 컬러의 니트. 사이즈는 공급처 실측표를 확인해 주세요.",
+      "style": "에크루 팬츠와 카멜 코트를 겹쳐 입어 톤온톤 룩을 완성하세요.",
+      "retail_price_krw": null,
+      "checkout_enabled": false,
+      "stock_verified": false,
+      "ai_look": "assets/cj-cashmere/col-camel.webp",
+      "detail_url": "https://epure.lexid.site/cashmere-la-maille-camel.html",
+      "supplier": "CJdropshipping",
+      "origin_verified": false
+    },
+    {
+      "slug": "le-pull-doux",
+      "pid": "2505070303311607900",
+      "sku": "CJYD2370195",
+      "name": "Le Pull Doux",
+      "ko": "두 라운드넥 캐시미어 니트",
+      "category": "Crewneck",
+      "material": "CJ 공급처 표기: Cashmere",
+      "percent": "혼용률 미기재 · 시험성적서 미확인",
+      "confidence": "material_listed_no_percent",
+      "price_usd": 104.29,
+      "colors": [
+        "Pea Green",
+        "Pink",
+        "Beige"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ],
+      "image": "https://cf.cjdropshipping.com/quick/product/3c866d3a-0d95-4bd5-b07d-ee89389de56b.jpg",
+      "gallery": [
+        "https://cf.cjdropshipping.com/quick/product/3c866d3a-0d95-4bd5-b07d-ee89389de56b.jpg",
+        "https://cf.cjdropshipping.com/quick/product/09739ce6-151b-4a48-9508-220455b17cc3.jpg",
+        "https://cf.cjdropshipping.com/quick/product/9bd42b14-f3d1-4e79-9538-5765cfd03959.jpg"
+      ],
+      "editorial": "col-rond-maro.webp",
+      "source": "https://www.cjdropshipping.com/product/round-neck-sweater-womens-pure-cashmere-sweater-p-2505070303311607900.html?list=1",
+      "note": "부드러운 라운드넥과 클래식한 길이의 니트. 베이지·핑크·그린 컬러를 중심으로 구성된 시안입니다.",
+      "style": "톤 다운된 버건디 슬랙스 또는 크림 스커트에 매치해보세요.",
+      "retail_price_krw": null,
+      "checkout_enabled": false,
+      "stock_verified": false,
+      "ai_look": "assets/cj-cashmere/col-rond-maro.webp",
+      "detail_url": "https://epure.lexid.site/cashmere-le-pull-doux.html",
+      "supplier": "CJdropshipping",
+      "origin_verified": false
+    },
+    {
+      "slug": "le-cardigan-court",
+      "pid": "1556853503170195456",
+      "sku": "CJQB1541381",
+      "name": "Le Cardigan Court",
+      "ko": "쿠르트 쇼트 캐시미어 가디건",
+      "category": "Cardigan",
+      "material": "CJ 공급처 표기: 캐시미어 100%",
+      "percent": "공급처 100% 표기 · 시험성적서 미확인",
+      "confidence": "supplier_claim_100",
+      "price_usd": 60.67,
+      "colors": [
+        "Black",
+        "Pink",
+        "Fruit Green",
+        "Oatmeal"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "image": "https://cf.cjdropshipping.com/97f68c9a-b6b7-47d2-ad43-7641912deaf6.jpg",
+      "gallery": [
+        "https://cf.cjdropshipping.com/97f68c9a-b6b7-47d2-ad43-7641912deaf6.jpg",
+        "https://cf.cjdropshipping.com/5f1529a6-4568-4c4b-b9a7-78033dceb46e.jpg",
+        "https://cf.cjdropshipping.com/8499b51a-3dc2-42ad-a264-cab23e06a9ab.jpg"
+      ],
+      "editorial": "cardigan-court.webp",
+      "source": "https://www.cjdropshipping.com/product/womens-short-high-waist-pure-cashmere-cardigan-p-1556853503170195456.html?list=1",
+      "note": "쇼트 기장의 라운드넥 가디건. 3가지 사이즈와 다양한 색상으로 구성된 공급처 상품입니다.",
+      "style": "실크 블라우스 위에 걸치거나 슬랙스와 함께 프렌치 시크 레이어링을 해보세요.",
+      "retail_price_krw": null,
+      "checkout_enabled": false,
+      "stock_verified": false,
+      "ai_look": "assets/cj-cashmere/cardigan-court.webp",
+      "detail_url": "https://epure.lexid.site/cashmere-le-cardigan-court.html",
+      "supplier": "CJdropshipping",
+      "origin_verified": false
+    }
+  ]
+}

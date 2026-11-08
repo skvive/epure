@@ -6,7 +6,7 @@ const root=resolve(new URL('..', import.meta.url).pathname);
 const pages=readdirSync(root).filter(n=>n.endsWith('.html'));
 const image=(n)=>join(root,n);
 test('16 HTML documents have versioned CSS and SEO image',()=>{
- assert.equal(pages.length,16);
+ assert.equal(pages.length,21);
  for(const name of pages){
   const content=readFileSync(join(root,name),'utf8');
   assert.match(content,/\/assets\/styles\.css\?v=2\.0\.0/);
@@ -33,6 +33,6 @@ test('SEO assets and PWA manifest icon files present',()=>{
  const manifest=JSON.parse(readFileSync(join(root,'manifest.webmanifest'),'utf8'));
  for(const entry of manifest.icons)assert.ok(existsSync(image(entry.src.slice(1))),entry.src);
  const sitemap=readFileSync(join(root,'sitemap.xml'),'utf8');
- assert.equal((sitemap.match(/<url>/g)||[]).length,16);
- assert.equal((sitemap.match(/<lastmod>/g)||[]).length,16);
+ assert.equal((sitemap.match(/<url>/g)||[]).length,21);
+ assert.equal((sitemap.match(/<lastmod>/g)||[]).length,21);
 });

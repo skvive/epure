@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-product-image]').forEach(btn=>btn.addEventListener('click',()=>{const img=document.getElementById('cashMainImage');if(img){img.src=btn.dataset.productImage;img.alt=btn.querySelector('img')?.alt||'CJ 상품 실물 이미지';}}));
