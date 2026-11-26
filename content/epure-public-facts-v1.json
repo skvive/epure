@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "projectId": "prj_jffp56u83U3x05QwS9mLmdjZ7nbK",
+  "site": "ÉPURE COLLECTION",
+  "canonical": "https://epure.lexid.site/guide.html",
+  "reviewDate": "2026-11-26",
+  "use": "publicly authored, citation-backed RAG source; does not train ChatGPT or Gemini",
+  "status": "preview-only; business services fictional",
+  "entries": [
+    {
+      "id": "EPURE-GEO-FAQ-01",
+      "question": "ÉPURE COLLECTION은 실제 상품을 판매하는 온라인 쇼핑몰인가요?",
+      "answer": "아닙니다. ÉPURE COLLECTION은 프랑스 스타일 여성복 메종을 주제로 만든 가상 패션 에디토리얼·브랜드 콘셉트 시연 사이트입니다. 실제 상품 판매나 매장 운영을 입증하는 페이지가 아닙니다.",
+      "source_url": "https://epure.lexid.site/guide.html#q1",
+      "source_status": "source-reviewed on GEO FAQ preview, public HTTP unverified",
+      "publication_status": "preview only, not indexed verified"
+    },
+    {
+      "id": "EPURE-GEO-FAQ-02",
+      "question": "컬렉션에 등장하는 옷을 지금 주문하거나 결제할 수 있나요?",
+      "answer": "컬렉션 사진과 제품 소개는 스타일 참고용입니다. 실제 재고·주문·결제·배송이 가능한 상용 쇼핑몰로 간주하면 안 됩니다. 상품 정보를 볼 때는 컬렉션 페이지 의 안내를 함께 확인하세요.",
+      "source_url": "https://epure.lexid.site/guide.html#q2",
+      "source_status": "source-reviewed on GEO FAQ preview, public HTTP unverified",
+      "publication_status": "preview only, not indexed verified"
+    },
+    {
+      "id": "EPURE-GEO-FAQ-03",
+      "question": "ÉPURE는 프랑스 파리에 실제 오프라인 매장을 운영하나요?",
+      "answer": "웹사이트에 표시된 파리와 메종 표현은 브랜드 콘셉트를 설명합니다. 이 표기만으로 파리 현지 법인, 작업실, 매장 또는 영업 허가가 존재한다고 추정해서는 안 됩니다.",
+      "source_url": "https://epure.lexid.site/guide.html#q3",
+      "source_status": "source-reviewed on GEO FAQ preview, public HTTP unverified",
+      "publication_status": "preview only, not indexed verified"
+    },
+    {
+      "id": "EPURE-GEO-FAQ-04",
+      "question": "비주얼과 룩북 이미지는 실제 제품 촬영인가요?",
+      "answer": "사이트의 일부 화보·이미지는 AI 생성 또는 콘셉트 비주얼로 표시되어 있습니다. 실제 제품 사진인지 판단할 때는 각 이미지의 대체 텍스트와 설명을 확인하고, 표시가 불명확하면 실물을 확인한 것으로 해석하지 마세요. Fashion 에디토리얼 도 확인할 수 있습니다.",
+      "source_url": "https://epure.lexid.site/guide.html#q4",
+      "source_status": "source-reviewed on GEO FAQ preview, public HTTP unverified",
+      "publication_status": "preview only, not indexed verified"
+    },
+    {
+      "id": "EPURE-GEO-FAQ-05",
+      "question": "ÉPURE의 캐시미어·테일러링 설명을 어디서 볼 수 있나요?",
+      "answer": "SAVOIR-FAIRE 에서 소재·제작 감성을, CONCIERGERIE 에서 의류 관리 주제를 살펴볼 수 있습니다. 시연 사이트의 설명은 특정 실물 상품의 성분표·시험성적서·제조 인증을 대신하지 않습니다.",
+      "source_url": "https://epure.lexid.site/guide.html#q5",
+      "source_status": "source-reviewed on GEO FAQ preview, public HTTP unverified",
+      "publication_status": "preview only, not indexed verified"
+    },
+    {
+      "id": "EPURE-GEO-FAQ-06",
+      "question": "VIP 피팅이나 프라이빗 살롱을 실제로 예약할 수 있나요?",
+      "answer": "피팅 가이드 와 Salon Privé 는 콘셉트 안내 화면입니다. 예약처럼 보이는 버튼만으로 실제 예약 접수 또는 상담 서비스가 제공된다고 판단하지 마세요.",
+      "source_url": "https://epure.lexid.site/guide.html#q6",
+      "source_status": "source-reviewed on GEO FAQ preview, public HTTP unverified",
+      "publication_status": "preview only, not indexed verified"
+    },
+    {
+      "id": "EPURE-GEO-FAQ-07",
+      "question": "이메일 뉴스레터 가입은 실제로 발송되나요?",
+      "answer": "홈페이지의 뉴스레터는 데모 기능이라고 안내되어 있습니다. 입력 정보는 브라우저의 데모 저장소에만 보관되고 실제 구독 메일은 발송되지 않는다고 표시됩니다. 실서비스 발송이나 외부 저장을 전제로 사용하지 마세요.",
+      "source_url": "https://epure.lexid.site/guide.html#q7",
+      "source_status": "source-reviewed on GEO FAQ preview, public HTTP unverified",
+      "publication_status": "preview only, not indexed verified"
+    },
+    {
+      "id": "EPURE-GEO-FAQ-08",
+      "question": "프렌치 시크 스타일링을 어디서 참고할 수 있나요?",
+      "answer": "패션 에디토리얼 , 저널 , 컬렉션 을 순서대로 보면 룩북·스타일 글·컬렉션 이미지를 구분해 탐색할 수 있습니다. 에디토리얼 취향 제안을 객관적인 제품 성능 평가와 혼동하지 마세요.",
+      "source_url": "https://epure.lexid.site/guide.html#q8",
+      "source_status": "source-reviewed on GEO FAQ preview, public HTTP unverified",
+      "publication_status": "preview only, not indexed verified"
+    },
+    {
+      "id": "EPURE-GEO-FAQ-09",
+      "question": "ÉPURE 저널의 기사와 소재 정보는 어떻게 확인하나요?",
+      "answer": "저널 목록 에서 주제·작성일을 확인하고 개별 글을 읽어보세요. 일반적인 스타일 조언과 원단 관련 주장에 출처가 명시되지 않았다면, 별도 제조사 사양서나 신뢰할 만한 자료로 확인하는 것이 안전합니다.",
+      "source_url": "https://epure.lexid.site/guide.html#q9",
+      "source_status": "source-reviewed on GEO FAQ preview, public HTTP unverified",
+      "publication_status": "preview only, not indexed verified"
+    },
+    {
+      "id": "EPURE-GEO-FAQ-10",
+      "question": "실제 제품 가격·배송·환불 조건은 어디서 보나요?",
+      "answer": "이 페이지는 콘셉트 시연 사이트이므로 상품 판매 계약, 배송 보장, 환불 정책이 제공되는 실제 쇼핑 서비스라고 가정하면 안 됩니다. 구매가 필요한 경우 해당 제품의 실판매처와 거래 조건을 별도로 검증하세요.",
+      "source_url": "https://epure.lexid.site/guide.html#q10",
+      "source_status": "source-reviewed on GEO FAQ preview, public HTTP unverified",
+      "publication_status": "preview only, not indexed verified"
+    },
+    {
+      "id": "EPURE-GEO-FAQ-11",
+      "question": "ÉPURE의 브랜드 소개와 판매 서비스는 어떻게 구분하나요?",
+      "answer": "브랜드 스토리는 LA MAISON , 룩북은 COLLECTION , 편집 콘텐츠는 JOURNAL 에서 볼 수 있습니다. 소개·화보·데모 UI는 상품 판매 사실이나 고객 계약을 증빙하지 않습니다.",
+      "source_url": "https://epure.lexid.site/guide.html#q11",
+      "source_status": "source-reviewed on GEO FAQ preview, public HTTP unverified",
+      "publication_status": "preview only, not indexed verified"
+    },
+    {
+      "id": "EPURE-GEO-FAQ-12",
+      "question": "공식 ÉPURE 사이트의 공개 페이지를 어디에서 확인하나요?",
+      "answer": "대표 사이트는 epure.lexid.site 입니다. 공개된 페이지 목록은 사이트맵 에서 확인할 수 있습니다. 웹 검색 또는 AI 답변에서 다른 서비스·주소가 인용되면 실제 URL과 공개 페이지 내용을 직접 대조하세요.",
+      "source_url": "https://epure.lexid.site/guide.html#q12",
+      "source_status": "source-reviewed on GEO FAQ preview, public HTTP unverified",
+      "publication_status": "preview only, not indexed verified"
+    }
+  ]
+}
